@@ -1,0 +1,23 @@
+# Query: SHOW TIME
+
+8 results - 6 files
+
+index.php:
+  10:     <title>SHOW TIME</title>
+
+reciept.php:
+  177: 									<h1 class="footer-heading">SHOW TIME </h1>
+  196: 								SHOW TIME <br>
+
+verify.php:
+  81:                             <?php echo "SHOW TIME"; ?>
+
+admin\header.php:
+  12:         SHOW TIME
+
+includes\footer.php:
+   4:         <h1 class="footer-heading">SHOW TIME</h1>
+  17:     <p>© 2020 SHOW TIME . Created by Query Coder's. </p>
+
+includes\header.php:
+  3:         <h1 class="navbar-heading">SHOW TIME</h1>
